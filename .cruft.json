@@ -1,0 +1,16 @@
+{
+    "template": "https://github.com/Gradiant/ai-dataset-template.git",
+    "commit": "293f54b786da027a55af19a4163432035869989b",
+    "context": {
+        "cookiecutter": {
+            "dataset_name": "casia_itde_segmentation",
+            "dataset_slug": "CASIA_ITDE_SEGMENTATION",
+            "task": "segmentation",
+            "_copy_without_render": [
+                ".github/workflows/*"
+            ],
+            "_template": "https://github.com/Gradiant/ai-dataset-template.git"
+        }
+    },
+    "directory": null
+}

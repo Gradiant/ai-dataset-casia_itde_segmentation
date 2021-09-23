@@ -1,0 +1,16 @@
+name: CASIA_ITDE_SEGMENTATION
+channels:
+  - anaconda
+dependencies:
+  - python=3.8
+  - numpy
+  - pydantic
+  - pytest
+  - pip:
+      - cruft==2.3.0
+      - dvc==2.1.0
+      - fire==0.4.0
+      - loguru==0.5.3
+      - cookiecutter==1.7.3
+      - mmpycocotools
+      - pre-commit
