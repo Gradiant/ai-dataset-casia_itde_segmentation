@@ -1,0 +1,4 @@
+outs:
+- md5: 9811fca932c98d4d14ec1e666c0e6113
+  size: 5271103
+  path: casia_v2_itde_seg.json

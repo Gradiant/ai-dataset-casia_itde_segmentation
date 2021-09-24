@@ -1,0 +1,4 @@
+outs:
+- md5: 64ea3f5befc2270ac770d9c9272cbaea
+  size: 783169
+  path: casia_v1_itde_seg_one_class.json
