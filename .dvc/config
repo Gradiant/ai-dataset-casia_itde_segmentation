@@ -2,3 +2,7 @@
     type = "reflink,symlink,hardlink,copy"
     shared = group
     dir = /media/VA/DVC/ai-datasets/CASIA_ITDE_SEGMENTATION
+['remote "local-remote"']
+    url = /media/VA/DVC_remote/ai-datasets/CASIA_ITDE_SEGMENTATION
+[core]
+    remote = local-remote
